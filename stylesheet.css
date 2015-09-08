@@ -5,7 +5,8 @@ li {
 	display:inline
 }
  table, th,td, ul, li{
-    border: 1px solid black;
+    border:2px solid white;
+	border-width: 1px;
 }
 ul {
 	padding:10px;
