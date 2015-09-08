@@ -30,3 +30,7 @@ a:active{
 	background-color:transparent;
 	text-decoration:underline;
 }
+img{
+	width:300px;
+	height:200px;
+}
