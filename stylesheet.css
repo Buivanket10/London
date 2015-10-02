@@ -1,5 +1,6 @@
 body{
-    background-color:white
+    background-image: linear-gradient(#8b9da9, #fff6e4);
+	box-shadow: inset 0 0 100px hsla(0,0%,0%,.3);
 }
 li {
 	display:inline
@@ -37,3 +38,16 @@ img{
 .skema, th, td{
 	border:2px solid black;
 }
+.Skygarden{
+	width:460px;
+	height:260px;
+}
+.Box1{
+	border-radius: 25px;
+	border:2px solid black;
+    background:white;
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 425px;
+    height: 100px;}
