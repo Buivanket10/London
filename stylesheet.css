@@ -50,4 +50,25 @@ img{
     background-repeat: repeat;
     padding: 20px; 
     width: 425px;
-    height: 100px;}
+    height: 100px;
+	}
+	.Tower {
+		width:460px;
+		height:260px;
+		position:relative;
+		left: 860px;
+		right:50px;
+	}
+	.Box2{
+	border-radius: 25px;
+	border:2px solid black;
+    background:white;
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 425px;
+    height: 100px;
+	position:relative;
+	left:860px;
+	right:50px;
+	}
