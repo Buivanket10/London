@@ -39,6 +39,8 @@ img{
 	border:2px solid black;
 }
 .Skygarden{
+	border-radius: 25px;
+	border:2px solid black;
 	width:460px;
 	height:260px;
 }
@@ -53,6 +55,8 @@ img{
     height: 100px;
 	}
 	.Tower {
+		border-radius: 25px;
+		border:2px solid black;
 		width:460px;
 		height:260px;
 		position:relative;
